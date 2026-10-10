@@ -1,4 +1,4 @@
-# azure-ai-fo# AI Agent Configuration and Evaluation with Azure AI Foundry
+# AI Agent Configuration and Evaluation with Azure AI Foundry
 
 A hands-on experiment configuring and testing three domain-specific AI assistants in **Microsoft Azure AI Foundry**, using a shared **GPT-4.1** model deployment.
 
@@ -78,5 +78,4 @@ A single deployed language model can support multiple role-specific assistants t
 
 Completed as a hands-on experiment for **AI Agent Fundamentals with Azure AI Foundry**. This repository documents the configuration and evaluation exercise; it does not include application source code or an independently deployed production service.
 undry-agent-experiment
-Hands-on implementation and evaluation of three domain-specific AI agents using GPT-4.1 and Microsoft Azure AI Foundry.
-[README.md](https://github.com/user-attachments/files/33281865/README.md)
+
